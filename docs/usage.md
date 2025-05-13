@@ -12,3 +12,4 @@ Notes and usage details for codex-cli-nix.
 - fix a small wording issue
 - link the usage section
 - fix a small wording issue
+- link the usage section
