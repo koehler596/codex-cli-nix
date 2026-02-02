@@ -27,3 +27,4 @@ Notes and usage details for codex-cli-nix.
 - link the usage section
 - add a note about the defaults
 - link the usage section
+- add a note about the defaults
